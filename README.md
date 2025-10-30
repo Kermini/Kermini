@@ -1,4 +1,4 @@
-<h1>Hi, I'm Koda, a <a href="https://www.linkedin.com/in/dakotah-ermini-2a81ba231/">Computer Science Student</a></h1>
+<h1>Hi, I'm Koda, a <a href="https://www.linkedin.com/in/dakotah-ermini-2a81ba231/">Computer Science Graduate</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
